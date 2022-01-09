@@ -53,7 +53,7 @@ the user is responsible.
 
   ### Simple Method
   
-[![Deploy](https://www.brainswig.com/imgs/ai/clickhere.gif)](https://pinkybot.yolasite.com/)
+[![Deploy](https://www.brainswig.com/imgs/ai/clickhere.gif)](https://heroku.com/deploy?template=https://github.com/cgluttappi/Pinky)
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
   
